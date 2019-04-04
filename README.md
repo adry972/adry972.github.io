@@ -6,3 +6,5 @@ It is best to use this content as part of the course. However, you are free to u
 To learn more about the Docker course (available november 2018): https://www.supinfo.com/cours/4DOC
 
 To learn more about the School : https://www.supinfo.com
+
+dkicnezicn
